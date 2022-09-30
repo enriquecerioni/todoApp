@@ -2,7 +2,7 @@
 
 This is the starter project for creating applications using webpack.
 
-### Notas:
+### Notes:
 Remember to rebuild the Node modules:
 ```
 npm install
